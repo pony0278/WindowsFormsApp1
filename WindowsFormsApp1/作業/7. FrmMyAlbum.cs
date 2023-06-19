@@ -40,7 +40,7 @@ namespace WindowsFormsApp1.作業
 
                         conn.Open();
                         command.ExecuteNonQuery();
-                        MessageBox.Show("Insert Image successfully");
+                        MessageBox.Show("Insert Image successfully haha");
                     }
                 }
                 catch (Exception ex)
